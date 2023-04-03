@@ -29,6 +29,9 @@ from bs4 import BeautifulSoup
 ```python
 df = pd.read_csv("output/analysis_sample.csv")
 ```
+---
+layout: wide_default
+---
 
 # Project Report
 
