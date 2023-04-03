@@ -1,3 +1,6 @@
+---
+layout: wide_default
+---
 ```python
 import fnmatch
 import glob
@@ -25,13 +28,9 @@ warnings.filterwarnings("ignore", message="It looks like you're parsing an XML d
 from bs4 import BeautifulSoup
 ```
 
-
 ```python
 df = pd.read_csv("output/analysis_sample.csv")
 ```
----
-layout: wide_default
----
 
 # Project Report
 
