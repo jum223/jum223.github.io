@@ -32,13 +32,13 @@ Or: The process that created this page can be used to show off your whole midter
 
 ---
 
-_**[Eventual team project](https://donbowen.github.io/teamproject/)**_
+_**[Possible: Analyzing the effect that the Ukraine-Russia armed conflict has had in international equity and commodity markets](https://jum223.github.io/FrontToBack/)**_
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
-_**[Some personal project](/pdf/sample_presentation.pdf)**_
+_**[Bankruptcy prediction for Taiwanese Companies](/pdf/sample_presentation.pdf)**_
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
