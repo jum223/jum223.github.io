@@ -38,9 +38,11 @@ _**[Possible: Analyzing the effect that the Ukraine-Russia armed conflict has ha
 
 ---
 
-_**[Bankruptcy prediction for Taiwanese Companies](/pdf/BUAN352_Project_Report.pdf)**_
+_**[Bankruptcy Prediction for Taiwanese Companies](/pdf/BUAN352_Project_Report.pdf)**_
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+The purpose of this project was to use ML (Machine Learning) techniques, such as multiple linear regression or classificaction and regression trees (CART),  to predict the probability of a given company going bankrupt. In order to do so, we used their financial data and were able to discover which are the most significant indicators of bankruptcy probability. For further details on the methodology, process, and data used please visit the link of the report above.
+
+<img src="images/test.png?raw=true"/>
 
 ---
 
