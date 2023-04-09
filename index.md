@@ -2,7 +2,7 @@
 
 Hello! I'm Juan Mozos Nieto, nice to meet you!
 
-I am a senior from Spain who will be graduating in December 2023 from Lehigh University. I am currenlty pursuing a double major in Finance and Business Analyitics and a minor in Financial Technology (FinTech). My hobbies are playing and watching soccer, skiing, and spending quality time with friends and family. Within the Finance sector, I am especially interested in how technological innovations are adopted and leveraged to improve its efficiency. I am particularly intrigued by the potential impact of blockchain technology on the future of the finance industry and the business world. Additionally, I am keenly interested in how data can help businesses make informed decisions. My enthusiasm for these topics is reflected in my coursework; where apart from the standard finance courses, I have taken financial data analytics courses and blockchain applications courses. I believe that staying informed about emerging trends and advancements in the field is essential for a successful career in finance, which is why I remain committed to keeping up with the latest developments in the industry.   
+I am a senior from Spain who will be graduating in December 2023 from Lehigh University. I am currenlty pursuing a double major in Finance and Business Analyitics and a minor in Financial Technology (FinTech). Within the Finance sector, I am especially interested in how technological innovations are adopted and leveraged to improve its efficiency. I am particularly intrigued by the potential impact of blockchain technology on the future of the finance industry and the business world. Additionally, I am keenly interested in how data can help businesses make informed decisions. My enthusiasm for these topics is reflected in my coursework; where apart from the standard finance courses, I have taken financial data analytics courses and blockchain applications courses. I believe that staying informed about emerging trends and advancements in the field is essential for a successful career in finance, which is why I remain committed to keeping up with the latest developments in the industry.   
 
 <!-- Upload your own photo and change the path -->
 
@@ -46,13 +46,13 @@ _**[Some personal project](/pdf/sample_presentation.pdf)**_
 
 ## Career Objectives
 
-Given that I will be graduating next December, I am still looking for internships for the coming summer of 2023
+My career objective is to pursue a career in the Finance industry, with a particular focus on private equity, venture capital, and startups. I am drawn to these sectors because they are typically involved in the development of technological innovations, which is one of my key interests. My goal is to be a part of a team that identifies and invests in companies with high potential for growth and success. In the short term, I am looking for internships for the summer of 2023 to gain practical experience and further develop my skills in these areas. If you are interested in learning more about my qualifications, please visit my LinkedIn and resume links.
 
 ---
 
 ## Hobbies
 
-Maybe include a little about these, especially if they are the kinds of things that work well in interviews.
+My hobbies are playing and watching soccer (Atletico de Madrid fan), skiing, and spending quality time with friends and family
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
