@@ -1,9 +1,8 @@
-## About Me
-Write About myself here 
+## About Me 
 
-What's up? hey\|you
+Hello! I'm Juan Mozos Nieto, nice to meet you!
 
-I am an awesome student at Lehigh, you should hire me!
+I am a senior from Spain who will be graduating in December 2023 from Lehigh University. I am currenlty pursuing a double major in Finance and Business Analyitics and a minor in Financial Technology (FinTech). My hobbies are playing and watching soccer, skiing, and spending quality time with friends and family. Within the Finance sector, I am especially interested in how technological innovations are adopted and leveraged to improve its efficiency. I am particularly intrigued by the potential impact of blockchain technology on the future of the finance industry and the business world. Additionally, I am keenly interested in how data can help businesses make informed decisions. My enthusiasm for these topics is reflected in my coursework; where apart from the standard finance courses, I have taken financial data analytics courses and blockchain applications courses. I believe that staying informed about emerging trends and advancements in the field is essential for a successful career in finance, which is why I remain committed to keeping up with the latest developments in the industry.   
 
 <!-- Upload your own photo and change the path -->
 
@@ -17,7 +16,7 @@ I am an awesome student at Lehigh, you should hire me!
 
 <!-- You can link to other websites, PDFs in this repo, and other pages in this repo -->
 
-_**[Natural language processing 10-Ks to identify sentiment vs returns](report/report.md)**_
+_**[Analyzing the correlation between 10-K sentiment scores and post-filing stock returns](report/report.md)**_
 
 You can show off your midterm analysis by moving the report components and output into this file. Or...
 
@@ -47,9 +46,7 @@ _**[Some personal project](/pdf/sample_presentation.pdf)**_
 
 ## Career Objectives
 
-Write what you want. 
-
-Sell yourself!
+Given that I will be graduating next December, I am still looking for internships for the coming summer of 2023
 
 ---
 
