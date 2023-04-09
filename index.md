@@ -7,7 +7,7 @@ I am a senior from Spain who will be graduating in December 2023 from Lehigh Uni
 <!-- Upload your own photo and change the path -->
 
 <p style="text-align:center;">
-  <img class="img-circle" src="https://github.com/donbowen/donbowen.github.io/raw/master/images/logo.png" width="50%">
+  <img class="img-circle" src="https://github.com/jum223/jum223.github.io/blob/master/images/FormalPic.jpg" width="50%">
 </p>
 
 ---
