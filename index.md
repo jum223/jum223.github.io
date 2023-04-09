@@ -24,11 +24,11 @@ The purpose of this project is to analyze the relationship between the performan
 
 ---
 
-_**[Regression Practice](Regression_practice)**_
+_**[Regression Practice](Regression_interpretation.md)**_
 
-Or: The process that created this page can be used to show off your whole midterm analysis file, as is.
+The purpose of this file is to analyze the effect that different predictors have on the interest rate on a loan. The predictors being used are credit score (both as a numerical variable and categorical variable) and loan-to-value ratio. For the output of the different regression models created plase see the image below.
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/reg_output.png?raw=true"/>
 
 ---
 
