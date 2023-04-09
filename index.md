@@ -18,9 +18,9 @@ I am a senior from Spain who will be graduating in December 2023 from Lehigh Uni
 
 _**[Analyzing the correlation between 10-K sentiment scores and post-filing stock returns](report/report.md)**_
 
-You can show off your midterm analysis by moving the report components and output into this file. Or...
+The purpose of this project is to analyze the relationship between the performance of stocks for firms in the S&P500 index and the sentiment of their respective 10-K filings. Two different post 10-K release return variables are computed and their relationship against various sentiment variables pertaining to 10-K data is analyzed. A hypothesis on the expected correlations between these variables is first formulated, and after some analysis I end up contradicting my initial hypothesis. Shortly put, the more negative the sentiment scores the better the firm's stock performance is. For further details about the purpose of the project, the data being used, and the process of data creation please refer to the link above.
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="report/output_17_1.png?raw=true"/>
 
 ---
 
