@@ -38,7 +38,7 @@ _**[Possible: Analyzing the effect that the Ukraine-Russia armed conflict has ha
 
 ---
 
-_**[Bankruptcy prediction for Taiwanese Companies](/pdf/sample_presentation.pdf)**_
+_**[Bankruptcy prediction for Taiwanese Companies](/pdf/BUAN352_Project_Report.pdf)**_
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
