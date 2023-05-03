@@ -40,7 +40,7 @@ To see and interact with the visualizations we based our analysis on, please vis
 
 For further details on the data we used to produce the visualization, the methodologies used to produce the code that produces the visualizations, our findings and the conclusions we reached please visit our dashboard's [report section](https://russiaukrainewarindustryreturns.streamlit.app). 
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/dashviz.png?raw=true"/>
 
 ---
 
