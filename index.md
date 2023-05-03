@@ -32,7 +32,13 @@ The purpose of this file is to analyze the effect that different predictors have
 
 ---
 
-_**[Possible: Analyzing the effect that the Ukraine-Russia armed conflict has had in international equity and commodity markets](https://jum223.github.io/FrontToBack/)**_
+_**[Analyzing the Effect on Stock Returns That the Russo-Ukrainian Armed Conflict Has Had on Energy, Metal, Semiconductor, Transport, and Food Industries](https://russiaukrainewarindustryreturns.streamlit.app)**_
+
+The main goal of this project is to explore how different industries are affected by the Russian-Ukrainian armed conflict that started on the 24th of February of 2022. In order to do so, we analyzed how different industries' returns were affected by a number of major events throughout the course of the war. We used a total of 17 major events and saw how cumulative returns for 5 industries, namely metal, energy, semiconductors, food, and transport industries, changed. In order to perform our analysis we used line-plots and computed return differences between the event date, 3 days after the event and 10 days after the event.
+
+To see and interact with the visualizations we based our analysis on, please visit the [home page](https://russiaukrainewarindustryreturns.streamlit.app) of our dashboard. This page will allow you to select a number industries at a time (or all of them) and events based on their description which will then output a line graph based on the desired industry and event choices.
+
+For further details on the data we used to produce the visualization, the methodologies used to produce the code that produces the visualizations, our findings and the conclusions we reached please visit our dashboard's [report section](https://russiaukrainewarindustryreturns.streamlit.app). 
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
