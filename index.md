@@ -20,7 +20,7 @@ The purpose of this project is to analyze the relationship between the performan
 
 ---
 
-_**[Regression Practice](Regression_interpretation.md)**_
+_**[Analyzing Bank of the West Lending Practices](Regression_interpretation.md)**_
 
 The purpose of this file is to analyze the effect that different predictors have on the interest rate on a loan. The predictors being used are credit score (both as a numerical variable and categorical variable) and loan-to-value ratio. For the output of the different regression models created and the respective regression coefficients plase see the image below. For further details on the interpretation of the developed models please see the link above. 
 
