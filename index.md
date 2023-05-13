@@ -20,11 +20,12 @@ The purpose of this project is to analyze the relationship between the performan
 
 ---
 
-_**[Analyzing Bank of the West Lending Practices](Regression_interpretation.md)**_
+_**[Analyzing Bank of the West Lending Practices](/pdf/BMOFinTechCapstoneReport.pdf)**_
 
-The purpose of this file is to analyze the effect that different predictors have on the interest rate on a loan. The predictors being used are credit score (both as a numerical variable and categorical variable) and loan-to-value ratio. For the output of the different regression models created and the respective regression coefficients plase see the image below. For further details on the interpretation of the developed models please see the link above. 
+Government regulations today prevent financial institutions from making lending decisions based on an applicant's demographic attributes. Historically, the practice of redlining prevented residents of certain areas from accessing credit due to race or ethnicity. Our mission on this project was to identify whether or not Bank of the West violates fair lending requirements by conducting a thorough analysis of its lending behaviors in areas with high minority populations. To see the full report, our analysis, methodologies and findings please see the [linked report](/pdf/BMOFinTechCapstoneReport.pdf). 
+ 
 
-<img src="images/reg_output.png?raw=true"/>
+<img src="images/RegTable.png?raw=true"/>
 
 ---
 
