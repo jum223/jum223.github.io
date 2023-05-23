@@ -20,9 +20,9 @@ The purpose of this project is to analyze the relationship between the performan
 
 ---
 
-_**[Analyzing Bank of the West Lending Practices](/pdf/BMOFinTechCapstoneReport.pdf)**_
+_**[Analyzing Bank of the West Lending Practices](https://ledatascifi.github.io/FinTech-Capstone-2023/)**_
 
-Government regulations today prevent financial institutions from making lending decisions based on an applicant's demographic attributes. Historically, the practice of redlining prevented residents of certain areas from accessing credit due to race or ethnicity. Our mission on this project was to identify whether or not Bank of the West violates fair lending requirements by conducting a thorough analysis of its lending behaviors in areas with high minority populations. To see the full report, our analysis, methodologies and findings please see the [linked report](/pdf/BMOFinTechCapstoneReport.pdf). 
+Government regulations today prevent financial institutions from making lending decisions based on an applicant's demographic attributes. Historically, the practice of redlining prevented residents of certain areas from accessing credit due to race or ethnicity. Our mission on this project was to identify whether or not Bank of the West violates fair lending requirements by conducting a thorough analysis of its lending behaviors in areas with high minority populations. To see the full report, our analysis, methodologies and findings please see the [project's website](https://ledatascifi.github.io/FinTech-Capstone-2023/). 
  
 
 <img src="images/RegTable.png?raw=true"/>
