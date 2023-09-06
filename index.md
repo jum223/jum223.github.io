@@ -12,20 +12,21 @@ I am a senior from Spain who will be graduating in December 2023 from Lehigh Uni
 
 <!-- You can link to other websites, PDFs in this repo, and other pages in this repo -->
 
-_**[Analyzing the correlation between 10-K sentiment scores and post-filing stock returns](report/report.md)**_
-
-The purpose of this project is to analyze the relationship between the performance of stocks for firms in the S&P500 index and the sentiment of their respective 10-K filings. Two different post 10-K release return variables are computed and their relationship against various sentiment variables pertaining to 10-K data is analyzed. A hypothesis on the expected correlations between these variables is first formulated, and after some analysis I end up contradicting my initial hypothesis. Shortly put, the more negative the sentiment scores the better the firm's stock performance is. For further details about the purpose of the project, the data being used, and the process of data creation please refer to the link above.
-
-<img src="report/output_17_1.png?raw=true"/>
-
----
-
 _**[Analyzing Bank of the West Lending Practices](https://ledatascifi.github.io/FinTech-Capstone-2023/)**_
 
 Government regulations today prevent financial institutions from making lending decisions based on an applicant's demographic attributes. Historically, the practice of redlining prevented residents of certain areas from accessing credit due to race or ethnicity. Our mission on this project was to identify whether or not Bank of the West violates fair lending requirements by conducting a thorough analysis of its lending behaviors in areas with high minority populations. To see the full report, our analysis, methodologies and findings please see the [project's website](https://ledatascifi.github.io/FinTech-Capstone-2023/). 
  
 
 <img src="images/RegTable.png?raw=true"/>
+
+---
+
+_**[Analyzing the correlation between 10-K sentiment scores and post-filing stock returns](report/report.md)**_
+
+The purpose of this project is to analyze the relationship between the performance of stocks for firms in the S&P500 index and the sentiment of their respective 10-K filings. Two different post 10-K release return variables are computed and their relationship against various sentiment variables pertaining to 10-K data is analyzed. A hypothesis on the expected correlations between these variables is first formulated, and after some analysis I end up contradicting my initial hypothesis. Shortly put, the more negative the sentiment scores the better the firm's stock performance is. For further details about the purpose of the project, the data being used, and the process of data creation please refer to the link above.
+
+<img src="report/output_17_1.png?raw=true"/>
+
 
 ---
 
