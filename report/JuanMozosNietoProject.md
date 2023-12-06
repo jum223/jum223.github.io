@@ -1,3 +1,7 @@
+---
+layout: wide_default
+---
+
 # Juan Mozos Nieto - FIN336 - Data Analytics Project
 
 ### Necessary Imports
