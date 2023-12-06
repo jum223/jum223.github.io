@@ -52,6 +52,8 @@ The purpose of this project was to use ML (Machine Learning) techniques, such as
 
 ---
 
+_**[FIN336 (Real Estate Finance) Data Analytics Project](report/JuanMozosNietoProject.md)**_
+
 ## Career Objectives
 
 My career objective is to pursue a career in the Finance industry, with a particular focus on private equity, venture capital, and startups. I am drawn to these sectors because they are typically involved in the development of technological innovations, which is one of my key interests. My goal is to be a part of a team that identifies and invests in companies with high potential for growth and success. In the short term, I am looking for internships for the summer of 2023 to gain practical experience and further develop my skills in these areas. If you are interested in learning more about my qualifications, please visit my LinkedIn and resume links.
